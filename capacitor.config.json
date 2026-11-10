@@ -1,0 +1,9 @@
+{
+  "appId": "com.cosmic.visionos",
+  "appName": "VisionOS",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
